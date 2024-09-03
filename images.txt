@@ -1,1 +1,9 @@
+redis
+tensorchord/pgvecto-rs
+brightercommand/rabbitmq
+
+
 b3log/siyuan
+
+ghcr.io/immich-app/immich-server
+ghcr.io/immich-app/immich-machine-learning
