@@ -2,8 +2,4 @@ redis
 tensorchord/pgvecto-rs:pg16-v0.3.0
 brightercommand/rabbitmq
 
-
 b3log/siyuan
-
-immich-app/immich-server:release
-immich-app/immich-machine-learning:release
