@@ -5,5 +5,5 @@ brightercommand/rabbitmq
 
 b3log/siyuan
 
-immich-server
-immich-machine-learning
+immich-app/immich-server:release
+immich-app/immich-machine-learning:release
