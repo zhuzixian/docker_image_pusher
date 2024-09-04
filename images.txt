@@ -4,3 +4,5 @@ tensorchord/pgvecto-rs:pg16-v0.3.0
 brightercommand/rabbitmq
 
 b3log/siyuan
+
+ghcr.io/immich-app/immich-machine-learning
