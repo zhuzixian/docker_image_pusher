@@ -5,6 +5,7 @@ tensorchord/pgvecto-rs:pg16-v0.3.0
 brightercommand/rabbitmq
 neosmemo/memos:stable
 b3log/siyuan
+xhofe/alist
 
 ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release
