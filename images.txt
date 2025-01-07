@@ -9,3 +9,6 @@ xhofe/alist
 
 ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release
+
+
+docker.io/tensorchord/pgvecto-rs
